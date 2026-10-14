@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "echarts": "^6.1.0",
+    "element-plus": "^2.14.7",
+    "mqtt": "^5.16.0",
+    "pinia": "^4.0.3",
+    "vue-echarts": "^8.3.2",
+    "vue-router": "^5.4.0"
+  }
+}
